@@ -14,7 +14,7 @@ def clear(): os.system("clear")
 def banner():
     print(f"""{Fore.RED}{Style.BRIGHT}
 ╔═══════════════════════════════════════════╗
-║         🔥  B A R A   C R A C K  🔥       ║
+║         🔥  B A R A   C R A C K  👿       ║
 ║              {Fore.YELLOW}v2.0 — by CJ{Fore.RED}                ║
 ╚═══════════════════════════════════════════╝
 {Style.RESET_ALL}""")
